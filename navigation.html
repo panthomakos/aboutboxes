@@ -1,0 +1,106 @@
+<html>
+<head>
+<meta name="copyright" content="© 2008 Cim Thomakos, All Rights Reserved">
+<style>
+    a:link              { color:#CCCCFF; text-decoration:none; outline:none }
+    a:visited           { color:#CCCCFF; text-decoration:none; outline:none }
+    a:hover             { color:white; text-decoration:none; outline:none }
+    a:active            { color:white; text-decoration:none; outline:none }
+
+</style>
+<script type="text/javascript">
+last = false;
+function change(newname){
+	if (last){
+		document.getElementById(last).style.color = "#CCCCFF";
+		document.getElementById(last).style.fontSize = "12px";
+	}
+	document.getElementById(newname).style.color = "white";
+	document.getElementById(newname).style.fontSize = "15px";
+	last = newname;
+}
+
+function getVar(name)
+         {
+         get_string = parent.document.location.search;         
+         return_value = '';
+         
+         do { //This loop is made to catch all instances of any get variable.
+            name_index = get_string.indexOf(name + '=');
+            
+            if(name_index != -1)
+              {
+              get_string = get_string.substr(name_index + name.length + 1, get_string.length - name_index);
+              
+              end_of_value = get_string.indexOf('&');
+              if(end_of_value != -1)                
+                value = get_string.substr(0, end_of_value);                
+              else                
+                value = get_string;                
+                
+              if(return_value == '' || value == '')
+                 return_value += value;
+              else
+                 return_value += ', ' + value;
+              }
+            } while(name_index != -1)
+            
+         //Restores all the blank spaces.
+         space = return_value.indexOf('+');
+         while(space != -1)
+              { 
+              return_value = return_value.substr(0, space) + ' ' + 
+              return_value.substr(space + 1, return_value.length);
+							 
+              space = return_value.indexOf('+');
+              }
+          
+         return(return_value);        
+         }
+
+function navigate(pass){
+	if (!pass){ pass = getVar('go'); }
+	change(pass);
+	if (pass == "About" || pass == "Testimonials" || pass == "BioContact" || pass == "Workshops"){
+		parent.main.location.href = pass.toLowerCase()+".html";
+	} else {
+		parent.main.location.href = pass.toLowerCase()+"/index.html"; }
+}
+</script>
+
+
+</head>
+<body bgcolor="#181818" style="font-family: verdana" onload="navigate(false);">
+
+
+
+<div id="content" style="text-align: right; height: 100%; margin-top: 30%">
+<font style="color: white; font-size: 40px;">Boxes<br /></font>
+<font style="color: white; font-size: 15px;">and Other Possibilities</font>
+<br />
+<br />
+<br />
+<font style="color: #CCCCFF; font-size: 12px;">
+<a id="Boxes" onClick="navigate('Boxes')" href="#">Boxes</a><br />
+<a id="Culture" onClick="navigate('Culture')" href="#">The Culture Box</a><br />
+<a id="Magic" onClick="navigate('Magic')" href="#">Magic Boxes</a><br />
+<a id="World" onClick="navigate('World')" href="#">The World in a Box</a><br />
+<a id="Self" onClick="navigate('Self')" href="#">One's Self Box</a><br />
+<a id="FormFunction" onClick="navigate('FormFunction')" href="#">Form and Function Boxes</a><br />
+<a id="Interactive" onClick="navigate('Interactive')" href="#">Interactive Boxes</a><br />
+<br />
+<br />
+<a id="About" onClick="navigate('About')" href="#">About</a><br />
+<a id="Testimonials" onClick="navigate('Testimonials')" href="#">Testimonials</a><br />
+<a id="Workshops" onClick="navigate('Workshops')" href="#">Workshops</a><br />
+<a id="BioContact" onClick="navigate('BioContact')" href="#">Bio/Contact</a><br />
+</font>
+
+</div>
+<div style="margin-top: -100px; text-align: right;">
+<font style="color: #444444; font-size: 9px;">Copyright &copy; 2008 Cim Thomakos<br />All Rights Reserved</font></div>
+
+
+</body>
+
+</html>

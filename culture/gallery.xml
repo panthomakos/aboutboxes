@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="1024" maxImageHeight="1024" textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="4" thumbnailRows="3" navPosition="left" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="thumbnails/">
+<image>
+	<filename>ard_1.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Ard<br />Grade 12 (2001)</font>]]></caption> </image>
+<image>
+	<filename>ard_2.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Ard<br />Grade 12 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>matina_1.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Matina<br />Grade 11 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>matina_2.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Matina<br />Grade 11 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>irina.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Irina<br />Grade 11 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>scan0002.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Maria<br />Grade 11 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>maria_1.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Maria<br />Grade 11 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>scan0003.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Natasha<br />Grade 12 (2001)</font>]]></caption>
+</image><image>
+	<filename>scan0004.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Natasha<br />Grade 12 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>scan0005.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Rea<br />Grade 11 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>anastasia.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Anastasia<br />Grade 12 (2001)</font>]]></caption>
+</image>
+<image>
+	<filename>scan0006.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Anna<br />Grade 12 (2001)</font>]]></caption>
+</image></simpleviewergallery>

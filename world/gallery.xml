@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="1024" maxImageHeight="1024" textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="4" thumbnailRows="4" navPosition="left" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="thumbnails/"><image>
+	<filename>maria.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Maria<br />Grade 12 (2002)</font>]]></caption>
+</image><image>
+	<filename>zoe_vidalis_2.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Zoe<br />Grade 11 (2003)</font>]]></caption>
+</image><image>
+	<filename>img_0093.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Zoe<br />Grade 11 (2003)<br/>(Opening)</font>]]></caption>
+</image><image>
+	<filename>zoe_vidalis_1.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Zoe<br />Grade 11 (2003)<br/>(Inside Out)</font>]]></caption>
+</image><image>
+	<filename>sonja.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Sonja<br />Grade 11 (2002)</font>]]>sonja.jpg</caption>
+</image><image>
+	<filename>img_0118.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Pan<br />Grade 11 (2003)</font>]]>img_0118.jpg</caption>
+</image><image>
+	<filename>img_0116.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Pan<br />Grade 11 (2003)<br/>(Interior)</font>]]>img_0116.jpg</caption>
+</image><image>
+	<filename>demetra_constantinidis_.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Demetra<br />Grade 11 (2002)</font>]]></caption>
+</image><image>
+	<filename>img_0101.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Angie<br />Grade 11 (2003)</font>]]></caption>
+</image><image>
+	<filename>dsc00266.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Angie<br />Grade 11 (2003)<br/>(Interior)</font>]]></caption>
+</image><image>
+	<filename>scan0008.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Angie<br />Grade 11 (2003)</font>]]></caption>
+</image><image>
+	<filename>dsc00289.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Angie<br />Grade 11 (2003)<br/>(Interior)</font>]]></caption>
+</image>
+<image>
+	<filename>img_0122.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Marielle<br />Grade 11 (2002)<br/></font>]]></caption>
+</image>
+
+<image>
+	<filename>yakinthi_1.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Yakinthi<br />Grade 12 (2003)</font>]]></caption>
+</image>
+<image>
+	<filename>yakinthi_2.jpg</filename>
+	<caption><![CDATA[<br /><font face="verdana" size="12px">Yakinthi<br />Grade 12 (2003)<br/>(Interior)</font>]]></caption>
+</image>
+
+
+</simpleviewergallery>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="1024" maxImageHeight="1024" textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="thumbnails/"><image>
+	<filename>img_0071.jpg</filename>
+	<caption><![CDATA[<br /><br/><br/><font face="verdana" size="12px">Naomi<br />Grade 10 (2004)</font>]]></caption><caption>img_0071.jpg</caption>
+</image><image>
+	<filename>img_0099.jpg</filename>
+	<caption><![CDATA[<br /><br/><br/><font face="verdana" size="12px">Alexander<br />Grade 11 (2004)</font>]]></caption><caption>img_0071.jpg</caption><caption>img_0099.jpg</caption>
+</image><image>
+	<filename>img_0098.jpg</filename>
+	<caption><![CDATA[<br /><br/><br/><font face="verdana" size="12px">Jun Kit<br />Grade 11 (2004)</font>]]></caption><caption>img_0071.jpg</caption><caption>img_0099.jpg</caption><caption>img_0098.jpg</caption>
+</image><image>
+	<filename>img_0087.jpg</filename>
+	<caption><![CDATA[<br /><br/><br/><font face="verdana" size="12px">Nevena<br />Grade 11 (2004)</font>]]></caption><caption>img_0071.jpg</caption><caption>img_0099.jpg</caption><caption>img_0087.jpg</caption>
+</image><image>
+	<filename>img_0114.jpg</filename>
+	<caption><![CDATA[<br /><br/><br/><font face="verdana" size="12px">Dimitri<br />Grade 9 (2004)</font>]]></caption><caption>img_0071.jpg</caption><caption>img_0099.jpg</caption><caption>img_0114.jpg</caption>
+</image><image>
+	<filename>img_0120.jpg</filename>
+	<caption><![CDATA[<br /><br/><br/><font face="verdana" size="12px">Olivia<br />Grade 11 (2004)</font>]]></caption><caption>img_0071.jpg</caption><caption>img_0099.jpg</caption><caption>img_0120.jpg</caption>
+</image></simpleviewergallery>
